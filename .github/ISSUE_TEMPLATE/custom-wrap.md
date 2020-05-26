@@ -16,5 +16,5 @@ assignees: ''
 **Needs testing**
 <!-- State 'yes' or 'no' if the wrap needs to be tested or not -->
 
-**Image color profile**
-<!-- State the color profile used by the image, e.g 'sRGB'. -->
+**Thread for reward change**
+<!-- Link your donation or reward change thread requesting this wrap -->
