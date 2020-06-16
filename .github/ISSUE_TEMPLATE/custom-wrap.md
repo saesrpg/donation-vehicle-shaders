@@ -18,3 +18,6 @@ assignees: ''
 
 **Thread for reward change**
 <!-- Link your donation or reward change thread requesting this wrap -->
+
+**Wrap image
+<!-- Preferably upload and attach the file here, or use an image hosting website and link it here -->
