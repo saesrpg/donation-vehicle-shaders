@@ -19,5 +19,8 @@ assignees: ''
 **Thread for reward change**
 <!-- Link your donation or reward change thread requesting this wrap. If left blank and a test is requested, the test may take a while to process, as you have no donation to request rewards for. -->
 
+**Translations**
+<!-- If the wrap contains language not readable in English, please add translations here, with reference to which part of the vehicle it's painted on. You must show the FOREIGN and ENGLISH version in plain text  -->
+
 **Wrap image**
-<!-- Preferably upload and attach the file here, or use an image hosting website and link it here -->
+<!-- Attach the file here, do not use 3rd party image hosts. File extension must be .PNG using 512x512 or 256x256 dimensions -->
