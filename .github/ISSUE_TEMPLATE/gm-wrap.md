@@ -1,4 +1,5 @@
-name: GM wrap
+---
+name: GM Wrap
 about: Use this template for posting your GM shader wrap request
 title: ''
 labels: 'Status: In Progress'
