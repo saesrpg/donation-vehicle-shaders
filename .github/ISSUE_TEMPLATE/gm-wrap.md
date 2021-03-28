@@ -1,7 +1,7 @@
 ---
 name: GM Wrap
 about: Use this template for posting your GM shader wrap request
-title: ''
+title: 'GM wrap for'
 labels: 'Status: In Progress'
 assignees: ''
 
