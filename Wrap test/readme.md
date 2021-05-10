@@ -5,7 +5,8 @@
 
 **Usage**  
 Simply replace `wrap.png` found in the `wrap` resource  
-As Admin in your server, type _restart wrap_, or bind key _restart wrap_ to update the wrap image
+As Admin in your server, type _restart wrap_, or bind key _restart wrap_ to update the wrap image  
+You need to have both `wrap` and `wrapmods` running while testing
 
 **Note**:  
 Resource **wrapmods** is where the vehicle mods go  
