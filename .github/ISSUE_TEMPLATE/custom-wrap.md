@@ -6,15 +6,15 @@ labels: 'Status: In Progress'
 assignees: ''
 
 ---
+<!--
+WRAP PREVIEW: IF YOU WANT TO PREVIEW THE WRAP, PLEASE INSTALL THE WRAP-TEST RESOURCE FROM: https://github.com/NanoBob/saesrpg-wrap-testing
+You may still get your wrap previewed by us, but it should be 10x easier to preview by yourself! -->
 
 **Vehicle ID**
 <!-- You can get the ID from https://wiki.multitheftauto.com/wiki/Vehicle_IDs -->
 
 **Wrap access**
 <!-- Leave blank if anyone can use the wrap, otherwise state the usernames -->
-
-**Needs testing**
-<!-- State 'yes' or 'no' if the wrap needs to be tested or not -->
 
 **Thread for reward change**
 <!-- Link your donation or reward change thread requesting this wrap. If left blank and a test is requested, the test may take a while to process, as you have no donation to request rewards for. -->
